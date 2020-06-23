@@ -27,3 +27,16 @@ body {
   background-size: 100vw 100vh;
   overflow-x: hidden;
 }
+
+#preview-container {
+  margin: initial;
+  padding: initial;
+  border: 5px solid red;
+  resize: both;
+  overflow: auto;
+}
+
+#preview {
+  margin: initial;
+  padding: initial;
+}
